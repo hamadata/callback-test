@@ -1,3 +1,0 @@
-== README
-
-This project is created for testing ActiveRecord callback.
